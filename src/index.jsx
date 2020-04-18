@@ -8,7 +8,7 @@ const Hello = ({ name }) => {
     <div>
       Hello,
       {name}
-    </div>
+    </div> 
   );
 };
 
